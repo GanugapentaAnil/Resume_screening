@@ -1,5 +1,7 @@
 📄 Resume Job Role Predictor
+
 Overview
+
 This project is a machine learning-based web application that predicts the most suitable job role for a candidate based on their resume. It utilizes TF-IDF vectorization and a pre-trained classification model to analyze resume content and classify it into relevant job categories. The application is built using Python, Streamlit, scikit-learn, and joblib for model handling. The user-friendly interface allows candidates or recruiters to upload resumes and receive instant predictions.
 
 🚀 Features
