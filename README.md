@@ -52,9 +52,11 @@ To use the app click here https://resumescreening-ganugapenta-anil.streamlit.app
 💾 Model Training & Updating
 
 
+
 To update the model with new data:
 
 Add new patient data to the UpdatedResumeDataSet.csv file.
+
 Run app.py to train the NLP Model again and save the updated version.
 
 
@@ -63,7 +65,9 @@ Run app.py to train the NLP Model again and save the updated version.
 
 
 Streamlit for the interactive UI.
+
 Pandas & Seaborn for data manipulation and visualization.
+
 Scikit-Learn for Machine Learning implementation.
 
 Final Output
