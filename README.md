@@ -29,6 +29,32 @@ The app extracts the text and displays it.
 Click on Predict, and the app will determine the best-fit job role.
 
 
+🚀 How to Run the Project Locally
+
+Clone this repository:
+git clone <repository-url>
+cd patient_drug_prediction
+
+Install required dependencies:
+pip install -r requirements.txt
+
+Run the Streamlit app:
+streamlit run app.py
+
+To use the app click here https://resumescreening-ganugapenta-anil.streamlit.app/
+
+
+
+💾 Model Training & Updating
+
+
+To update the model with new data:
+
+Add new patient data to the UpdatedResumeDataSet.csv file.
+Run app.py to train the NLP Model again and save the updated version.
+
+
+
 📜 Acknowledgments
 
 
