@@ -58,7 +58,6 @@ Add new patient data to the UpdatedResumeDataSet.csv file.
 Run app.py to train the NLP Model again and save the updated version.
 
 
-
 📜 Acknowledgments
 
 
