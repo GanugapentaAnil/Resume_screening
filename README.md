@@ -35,8 +35,6 @@ Clone this repository:
 
 git clone <repository-url>
 
-cd patient_drug_prediction
-
 Install required dependencies:
 
 pip install -r requirements.txt
